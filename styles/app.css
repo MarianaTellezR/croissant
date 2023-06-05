@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(255, 225, 187);
+}
+
+.container {
+  background-color: white;
+
+  max-width: 800px;
+  width: 80%;
+  border-radius: 15px;
+
+  margin: 35px auto;
+  padding: 20px 30px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(110, 81, 43);
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  max-width: 90%;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
+
+.links-section {
+  margin: 25px auto;
+  text-align: center;
+}
+
+.links-section a {
+  margin: 0 10px;
+  color: rgb(110, 81, 43);
+}
