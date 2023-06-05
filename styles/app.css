@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(255, 225, 187);
+  background: linear-gradient(to top, #c79081 0%, #dfa579 100%) fixed;
+  font-family: "Nunito", sans-serif;
 }
 
 .container {
